@@ -1,1 +1,2 @@
 # Poverty_Detection_Using_Satellite_Imagery
+By combining satellite images taken during the day and nighttime, we can create a highly accurate model for evaluating wealth in relation to poverty. Such a model would make it easier for regulatory bodies to obtain labor statistics, saving time, money, and providing a more effective method. It would enable better tracking of wealth, aiding in the development of plans and policies to strengthen the economy.
